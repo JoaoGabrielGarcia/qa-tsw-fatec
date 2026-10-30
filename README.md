@@ -2,8 +2,6 @@
 
 Implementação dos três exercícios de Qualidade e Testes de Software em TypeScript, com Jest e desenvolvimento orientado a testes (TDD). Os testes foram escritos antes das implementações.
 
-**Repositório Git:** [github.com/JoaoGabrielGarcia/qa-tsw-fatec](https://github.com/JoaoGabrielGarcia/qa-tsw-fatec)
-
 ## Requisitos
 
 - Node.js 20 ou superior
